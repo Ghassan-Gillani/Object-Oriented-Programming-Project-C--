@@ -1,0 +1,7 @@
+1234	6593
+EE227	Digital Logic Design
+CS103	Computer Programming
+1234	852
+EE227	Digital Logic Design
+1234	852
+EE227	Digital Logic Design

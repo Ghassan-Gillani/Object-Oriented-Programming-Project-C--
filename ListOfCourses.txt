@@ -1,0 +1,64 @@
+Semester 1
+       	                      			     Crdt Hrs. 	Pre Req:
+CL101  Intro to Computing Lab. 				1       -
+CS101     Intro to Computing. 				3 	-
+EE182      Basic Electronics. 	     			3 	-
+MT101           Calculus - I. 	             			3 	-
+MT104         Linear Algebra.           			3 	-
+SS101       English Language. 	     		        4 	-
+Semester 2
+		                     		     Crdt Hrs. 		Pre Req:
+CL103  Computer Programming Lab. 			1 		CL101,CS101
+CS103  Computer Programming. 	        		3 		CL101,CS101
+EE227  Digital Logic Design. 				4 		-
+MT115  Calculus - II.					3 		MT101
+SS113  Pakistan Studies. 				3 		-
+SS122  English Composition. 				3 		SS101
+Semester 3
+				     	     	     Crdt Hrs. 		Pre Req:
+CS201  Data Structures. 				3 		CL103,CS103
+CS211  Discrete Structures. 				3 		-
+EE213  Comp Organization & Assembly Lang. 		3 		EE227
+EL213  Comp Organization & Assembly Lang Lab. 		1 		-
+SS111  Islamic & Religious Studies.			3 		-
+MGX01  Business Elective. 				3 		-
+Semester 4
+						     Crdt Hrs. 	Pre Req:
+CL203  Database Systems Lab. 				1 	CS201
+CL205  Operating Systems Lab. 				1 	CS201
+CS203  Database Systems. 				3 	CS201
+CS205  Operating Systems. 				3 	CS201
+CS302  Design & Analysis of Algorithms. 		3 	CS201
+MGX02  Business Elective - II. 			3 	-
+MTX01  Math Elective. 					3 	-
+Semester 5
+						     Crdt Hrs. 	Pre Req:
+CL307  Computer Networks Lab. 				1 	CS201
+CL309  Object Oriented Analysis & Design Lab. 		1 	CS201
+CS301  Theory of Automata. 				3 	CS211
+CS307  Computer Networks. 				3 	CS201
+CS309  Object Oriented Analysis & Design. 		3 	CS201
+MT206  Probability & Statistics. 			4 	-
+CSX01  CS Elective - I. 				3 	-
+Semester 6
+					       	     Crdt Hrs. 	Pre Req:
+CS303  Software Engineering. 				3 	CS309
+CS401  Artificial Intelligence. 			3 	-
+SS108  Technical and Business Writing. 			3 	SS122
+CSX02  CS Elective - II. 				3 	-
+MTX02  Math Elective. 					3 	-
+Semester 7
+						    Crdt Hrs. 	Pre Req:
+CS422  Human Computer Interaction. 			3 	CS203
+CS491  Project - I. 					3 	-
+EE204  Computer Architecture.				3 	EE213
+CSX03  CS Elective - III. 				3 	-
+SSX01  Social Science Elective. 			3 	-
+Semester 8
+						    Crdt Hrs. 	Pre Req:
+CS449  Professional Issues in IT. 			3 	-
+CS492  Project - II. 					3 	CS491
+CSX04  CS Elective - IV. 				3 	-
+CSX05  CS Elective - V.				3 	-
+CSX06  CS Elective - VI. 				3 	-
+Semester finished
